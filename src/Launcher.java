@@ -13,6 +13,7 @@ public class Launcher {
         System.out.println(mod(a, b));
         System.out.println(pow(a, b));
         System.out.println(min(a, b));
+        System.out.println("Hello world");
     }
 
     private static int add(int a, int b) {
